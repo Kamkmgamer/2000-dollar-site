@@ -20,7 +20,7 @@ export default function Icon() {
           background: "linear-gradient(145deg, #0a0503 0%, #1f1209 25%, #3d2314 50%, #6b4423 75%, #8B4513 100%)",
           borderRadius: "50%",
           boxShadow: "0 8px 25px rgba(139,69,19,0.7), inset 0 2px 6px rgba(255,255,255,0.15)",
-          border: "4px solid linear-gradient(90deg, #B8860B, #FFD700, #B8860B)",
+          background: "linear-gradient(145deg, #0a0503 0%, #1f1209 25%, #3d2314 50%, #6b4423 75%, #8B4513 100%), linear-gradient(90deg, #B8860B, #FFD700, #B8860B)",
           position: "relative",
         }}
       >
